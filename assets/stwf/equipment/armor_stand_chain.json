@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "stwf:armor_stand_chain"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "stwf:armor_stand_chain"
+      }
+    ]
+  }
+}

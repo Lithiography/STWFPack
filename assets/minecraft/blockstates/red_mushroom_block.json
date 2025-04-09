@@ -1,0 +1,8 @@
+{
+    "variants": {
+      "north=false,east=false,south=false,west=false,up=false,down=true": {
+        "model": "stwf:block/mari_block"
+      }
+    }
+  }
+  

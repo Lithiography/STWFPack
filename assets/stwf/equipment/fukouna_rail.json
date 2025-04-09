@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "stwf:fukouna_rail"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "stwf:fukouna_rail"
+      }
+    ]
+  }
+}

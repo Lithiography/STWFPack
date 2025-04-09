@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "stwf:mari_halo"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "stwf:mari_halo"
+      }
+    ]
+  }
+}
